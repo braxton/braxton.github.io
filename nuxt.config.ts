@@ -7,6 +7,7 @@ export default defineNuxtConfig({
       postcssOptions: require("./postcss.config.js"),
     },
     transpile: [
+      "@/assets/css/styles.css",
       "@fortawesome/fontawesome-svg-core",
       "@fortawesome/free-brands-svg-icons",
       "@fortawesome/free-solid-svg-icons",
@@ -16,5 +17,6 @@ export default defineNuxtConfig({
   css: [
     "@/assets/css/styles.css",
     "@fortawesome/fontawesome-svg-core/styles.css"
-  ]
+  ],
+  target: "static"
 })

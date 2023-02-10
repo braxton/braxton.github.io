@@ -6,7 +6,7 @@ export default {
       linkedin: {
         icon: ["fab", "linkedin-in"],
         desc: "Curious about what I do? Find all of my professional and educational experience.",
-        link: "https://www.linkedin.com/in/braxtonmahr/"
+        link: "https://www.linkedin.com/in/alicjamahr/"
       },
       gh: {
         icon: ["fab", "github"],
@@ -16,7 +16,7 @@ export default {
       email: {
         icon: ["fas", "envelope"],
         desc: "If you would like to get in contract with me for any reason, email will net you the fastest response.",
-        link: "mailto:braxton@mahr.cc"
+        link: "mailto:alicja@mahr.cc"
       }
     };
   },

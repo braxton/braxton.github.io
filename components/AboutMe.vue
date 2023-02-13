@@ -14,9 +14,9 @@
               class="text-fuchsia-400"
               href="https://www.bu.edu/eng/academics/departments-and-divisions/electrical-and-computer-engineering/">ENG</a>
           </li>
-          <li>Working at <a class="text-fuchsia-400" href="https://github.com/syftchurro">Syft</a>, <a
-              class="text-fuchsia-400" href="https://cohere.ai">Cohere</a>, and <a class="text-fuchsia-400"
-              href="https://fazeclan.com/">FaZe Clan</a></li>
+          <li>Working at <a class="text-fuchsia-400" href="https://cohere.ai">Cohere</a>, <a class="text-fuchsia-400"
+              href="https://fazeclan.com/">FaZe Clan</a>, and <a class="text-fuchsia-400"
+              href="https://github.com/syftchurro">Syft</a></li>
           <li>Currently learning about K8s and LLMs</li>
           <li>Regularly working with Python, TypeScript, and Rust</li>
         </ul>

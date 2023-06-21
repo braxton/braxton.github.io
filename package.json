@@ -13,7 +13,7 @@
     "@fortawesome/free-solid-svg-icons": "^6.1.1",
     "@fortawesome/vue-fontawesome": "^3.0.0-5",
     "autoprefixer": "^10.4.6",
-    "nuxt": "3.0.0-rc.1",
+    "nuxt": "3.4.3",
     "postcss": "^8.4.13",
     "push-dir": "^0.4.1",
     "sass": "^1.51.0",
